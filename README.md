@@ -1,3 +1,3 @@
 # hello-world
 First repo in github
-Nice to finally somethin on Github
+Nice to finally write something on Github
